@@ -1,11 +1,11 @@
 # Hello, I'm Evgeniy Bondarenko 🇬🇧
 
 ## About Me
-I’m a freelance Fullstack Developer 🧑‍💻 with a strong focus on **JavaScript (TypeScript)** and a growing passion for **Rust**. I’ve also gained experience with **Python** and **Golang**. I enjoy building projects from scratch, watching them evolve, and exploring new technologies. My long-term goal is to launch a successful product startup 🚀.
+I’m a freelance Fullstack Developer 🧑‍💻 with a strong focus on **JavaScript (TypeScript)**. I’ve also have experience with **Python**, **Golang**, and **Rust**. I enjoy building projects from scratch, watching them evolve, and exploring new technologies
 
 ## Tech Stack
-- **Primary:** JavaScript (TypeScript), Rust  
-- **Also Familiar With:** Python, Golang
+- **Primary:** JavaScript (TypeScript)
+- **Also Familiar With:** Python, Golang, Rust
 
 ## Featured Commercial Project 🌐
 - [**fg-store.ru**](https://fg-store.ru/) — A fully developed-from-scratch online store for digital goods.
