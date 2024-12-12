@@ -1,4 +1,4 @@
-# Hello, I'm Evgeniy Bondarenko 🇬🇧
+# Hello, I'm Evgeniy Bondarenko 😎
 
 ## About Me
 I’m a freelance Fullstack Developer 🧑‍💻 with a strong focus on **JavaScript (TypeScript)**. I’ve also have experience with **Python**, **Golang**, and **Rust**. I enjoy building projects from scratch, watching them evolve, and exploring new technologies
